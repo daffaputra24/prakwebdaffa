@@ -11,5 +11,5 @@
     <label for="alamat" >Alamat</label>
     <input type="text" name="alamat" class="form-control" id="alamat">
   </div>
-  <button type="submit" class="btn btn-primary">Submit</button>
+  <button type="submit" class="btn btn-primary mt-3">Submit</button>
 </form>

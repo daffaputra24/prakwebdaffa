@@ -25,4 +25,6 @@
     </div>
   </div>
 </nav>
-    <h1><?= esc($title) ?></h1>
+    <div class="container">
+    <h1 class="mt-4 ml-4"><?= esc($title) ?></h1>
+    
